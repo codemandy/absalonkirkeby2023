@@ -1,8 +1,7 @@
 lang: en
-name: eleventy-webpack
-title: eleventy-webpack
+name: Absalon Kirkeby
+title: Absalon Kirkeby
 # see https://ogp.me/#types
 type: website
-url: https://github.com/clenemt/eleventy-webpack
-image: https://avatars3.githubusercontent.com/u/447956?s=400&v=4
-description: A barebone Eleventy and Webpack boilerplate 🎈.
+url: https://absalonkirkeby.org
+description: Absalon Kirkeby Windeloev, artist,emancipationsfrugten, emancipatssionsfrugten, forlag, avokado, kina, mikroforlag, absalon kirkeby, kasper hesselbjerg
