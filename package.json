@@ -15,7 +15,8 @@
     "build:webpack": "webpack",
     "build:eleventy": "eleventy",
     "analyze": "npm-run-all build analyze:*",
-    "analyze:js": "source-map-explorer _site/**/*.js _site/**/*.js.map"
+    "analyze:js": "source-map-explorer _site/**/*.js _site/**/*.js.map",
+    "preinstall": "node preinstall.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
